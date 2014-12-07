@@ -1,14 +1,20 @@
-Welcome to GUNDAM team page! ガンダムコーディングチームのページへようこそ！
+Welcome to GUNDAM KODING team page! ガンダムコーディングチームのページへようこそ！
 ================
 <p align="center">
   <img src="http://www.rapidfiregames.com/sites/default/files/pics/gundammemories/mobile-suit-gundam.jpg"/>
 </p>
 
-Hello, we are a team mostly from Japan (Tokyo). Our team name is called Gundam because we like ガンダム！Gundam/ガンダム is a Japanese giant robot mecha anime series and is very popular.
+Hello, our team consist of Japanese,Canadian,Thai,Chinese,and Korian in Tokyo,Japan.Our team name is called Gundam because we like ガンダム！Gundam/ガンダム is a Japanese giant robot mecha anime series and is very popular.
 
-Although there is an explosion in the popularity of computer science in the United States and such, computer science and engineering is still looked down upon in Japan. Engineers are looked down upon in Japan. We want to change this mindset. If we win, we want to use this opportunity and make it so that all Japanese people will realize the power and potential of coding, computer science, and hackathons!
+Although there is an explosion in the popularity of computer science in the United States, computer science and engineering is still looked down upon in Japan.Engineer is not popular job in Japan.
+But we want to change this situation.
+We are thinking that ENGINEER makes the world better for the future and Japanese engineers should contribute to do that.
+If we win,we can express Japanese potential of coding, computer science and Hackathons to the world.
 
-私たちは日本にいても、Tommyさんも日本が好きです！アメリカなどでは情報工学はもっと大人気になるのに、日本ではまだ工学部は人気ではありません。私たちはその考えを変えたい。もし勝てば、この機会で全部の日本人に情報工学とハッカソンの力と可能性を気づかせます。 
+私たちは、日本人、カナダ人、タイ人、中国人、韓国人のグローバルチームです。アメリカでは情報工学が人気のある学業であるのに対し、
+日本ではまだコンピュータサイエンスの分野は人気が高くはありません。私たちはこの現状を変えたいと考えています。
+もし、Global hackathonで勝つことができれば、日本の若い世代にコンピュータサイエンスの魅力を伝えることができると考えています。
+
 
 
 About Our Team
@@ -21,7 +27,7 @@ About Our Team
 
 Jumpei
 =======
-Jumpei Yamane is an accomplished and experienced manager of various hackathons in Japan, and is a prominent advocate/technology evangelist. He currently works at Givery株式会社, and is also the Japanese ambassador for AngelHack, a premier developer relations platform, and is an organization that hosts massive Hackathons around the world. He aims to make hackathons popular in Japan and to make Tokyo the next hub for startup companies. He will be the designer and co-director of this team. [Facebook](https://www.facebook.com/jumpeiyamane)
+Jumpei Yamane is an accomplished and experienced manager of various hackathons in Japan, and is a prominent advocate/technology evangelist. He currently works at Givery,Inc. , and is also the Japanese ambassador for AngelHack, a premier developer relations platform, and is an organization that hosts massive Hackathons around the world. He aims to make hackathons popular in Japan and to make Tokyo the next hub for startup companies. He will be the designer and co-director of this team. [Facebook](https://www.facebook.com/jumpeiyamane)
 
 Takuya
 =======
