@@ -11,7 +11,7 @@ Although there is an explosion in the popularity of computer science in the Unit
 私たちは日本にいても、Tommyさんも日本が好きです！アメリカなどでは情報工学はもっと大人気になるのに、日本ではまだ工学部は人気ではありません。私たちはその考えを変えたい。もし勝てば、この機会で全部の日本人に情報工学とハッカソンの力と可能性を気づかせます。 
 
 
-About Our Team
+About Our Team!
 ===========================
 
 | Jumpei | Takuya | Cherry | Tommy | Nam
