@@ -1,4 +1,4 @@
-Welcome to GUNDAM team page! ガンダムチームのページへようこそ！
+Welcome to GUNDAM team page! ガンダムコーディングチームのページへようこそ！
 ================
 <p align="center">
   <img src="http://www.rapidfiregames.com/sites/default/files/pics/gundammemories/mobile-suit-gundam.jpg"/>
